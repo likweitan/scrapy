@@ -7,7 +7,7 @@ Use scrapy to crawl quizlet website to get the questions and answers.
 venv\Scripts\activate.bat
 ```
 
-## To start:
+## Usage
 ```
 scrapy crawl quizlet
 ```
