@@ -8,6 +8,8 @@ venv\Scripts\activate.bat
 ```
 
 ## Usage
+1. Quizlet
 ```
 scrapy crawl quizlet
 ```
+2. Onemotoring
