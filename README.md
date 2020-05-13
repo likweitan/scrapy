@@ -53,7 +53,7 @@ To-do list:
 
 ## Status
 
-Project is: _in progress_ and why?
+Project is: _in progress_ and wants to scrape more websites.
 
 ## Contact
 
