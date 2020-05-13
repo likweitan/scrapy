@@ -1,6 +1,6 @@
 # Project Name
 
-> Use scrapy to crawl quizlet website to get the questions and answers.
+> Use scrapy to crawl different kinds of websites.
 
 ## Table of contents
 
@@ -10,12 +10,11 @@
 - [Setup](#setup)
 - [Features](#features)
 - [Status](#status)
-- [Inspiration](#inspiration)
 - [Contact](#contact)
 
 ## General info
 
-Add more general information about project. What the purpose of the project is? Motivation?
+Web crawling and scraping is a technique to obtain the information in the websites.
 
 ## Screenshots
 
@@ -23,9 +22,7 @@ Add more general information about project. What the purpose of the project is? 
 
 ## Technologies
 
-- Tech 1 - version 1.0
-- Tech 2 - version 2.0
-- Tech 3 - version 3.0
+- Scrapy - version 2.1.0
 
 ## Setup
 
@@ -47,22 +44,16 @@ Show examples of usage:
 
 List of features ready and TODOs for future development
 
-- Awesome feature 1
-- Awesome feature 2
-- Awesome feature 3
+- [Quizlet](https://quizlet.com/)
+- [Onemotoring](https://www.onemotoring.com.sg/content/onemotoring/home/driving/traffic_information/traffic-cameras/woodlands.html)
 
 To-do list:
 
-- Wow improvement to be done 1
-- Wow improvement to be done 2
+- [TheEdge](https://www.theedgemarkets.com/categories/malaysia)
 
 ## Status
 
 Project is: _in progress_ and why?
-
-## Inspiration
-
-Add here credits. Project inspired by..., based on...
 
 ## Contact
 
