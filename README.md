@@ -37,6 +37,7 @@ Setup your local environement
 venv\Scripts\activate.bat
 ```
 
+<<<<<<< HEAD
 ## Code Examples
 
 Show examples of usage:
@@ -67,3 +68,11 @@ Add here credits. Project inspired by..., based on...
 ## Contact
 
 Created by [@likweitan](https://likweitan.github.io/) - feel free to contact me!
+=======
+## Usage
+1. Quizlet
+```
+scrapy crawl quizlet
+```
+2. Onemotoring
+>>>>>>> 28a6dd93324b59da2d36061fd216334eb54e884f
